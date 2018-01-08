@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>new.jpg</file>
+        <file>logo.jpg</file>
+        <file>mapv4.jpg</file>
+        <file>math_map.jpg</file>
+        <file>mapv4_2.jpg</file>
+        <file>mapv5_2.png</file>
+        <file>mapv6_2.jpg</file>
+        <file>timg.jpg</file>
+        <file>app_logo.ico</file>
+    </qresource>
+    <qresource prefix="/music"/>
+</RCC>
