@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>dis_info</class>
+ <widget class="QDialog" name="dis_info">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1920</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>1520</x>
+     <y>120</y>
+     <width>261</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>黑体</family>
+     <pointsize>30</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>信息查询</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="return_btn">
+   <property name="geometry">
+    <rect>
+     <x>1660</x>
+     <y>960</y>
+     <width>200</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>关闭</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button01">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>320</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>【1】科艺苑</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button10">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>797</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>     【10】99式坦克模型</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button07">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>638</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>【7】校史馆</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button11">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>850</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>【11】中北酒店</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button06">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>585</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>  【6】行知广场</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button08">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>691</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string> 【8】窦大夫祠</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button03">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>426</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>【3】游泳馆</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button04">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>479</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>         【4】瑾瑜国际会议中心</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button05">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>532</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>【5】柏林园</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button09">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>744</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>   【9】彭德怀雕像</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button02">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>373</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>【2】图书馆</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button00">
+   <property name="geometry">
+    <rect>
+     <x>1450</x>
+     <y>267</y>
+     <width>400</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>【0】二龙山</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="display">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>100</y>
+     <width>1181</width>
+     <height>851</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>黑体</family>
+     <pointsize>18</pointsize>
+    </font>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>return_btn</sender>
+   <signal>clicked()</signal>
+   <receiver>dis_info</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>1759</x>
+     <y>1009</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>959</x>
+     <y>539</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
